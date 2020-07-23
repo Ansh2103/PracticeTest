@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 i am shubham kumar
-=======
+
 add something
->>>>>>> 16e326ca8a3aa48c5ae7049fa1ddd3b61ba9c4c8
+
